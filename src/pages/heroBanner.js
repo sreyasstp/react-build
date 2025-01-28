@@ -16,10 +16,10 @@ Nestled amidst the paddy fields of Wayanad, Paddy View Resort is a haven of tran
                 <a
                   data-aos='fade-up'
                   data-aos-delay={200}
-                  href='/contact'
+                  href='https://paddyviewresortwayanad.pripgo.com/'
                   className='btn-get-started'
                 >
-                  Contact Us
+                  Book Now
                 </a>
               </div>
             </div>
